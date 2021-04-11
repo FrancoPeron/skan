@@ -1,0 +1,152 @@
+/*==================== TYPOGRAPHY ==================== */
+
+/*------------- Font Size -------------*/
+
+.f-big{
+    font-size: 5.875rem; /* 94px */
+    letter-spacing: -0.094rem; /* -1.5px */
+    line-height: calc(140%); /* 140% de 94px */
+    font-weight: 300;
+}
+
+.f-h1{
+    font-size: 4.75rem; /* 76px */
+    letter-spacing: -0.031rem; /* -0.5px */
+    line-height: calc(140%); /* 140% de 76px */
+    font-weight: 500;
+}
+
+.f-h2{
+    font-size: 3.75rem; /* 60px */
+    letter-spacing: -0.031rem; /* -0.5px */
+    line-height: calc(140%); /* 140% de 60px */
+    font-weight: 500;
+}
+
+.f-h3{
+    font-size: 3rem; /* 48px */
+    letter-spacing: 0; /* 0 */
+    line-height: calc(140%); /* 140% de 48px */
+    font-weight: 500;
+}
+
+.f-h4{
+    font-size: 2.375rem; /* 38px */
+    letter-spacing: 0.009rem; /* 0.15px */
+    line-height: calc(150%); /* 150% de 38px */
+    font-weight: 500;
+}
+
+.f-h5{
+    font-size: 2.125rem; /* 34px */
+    letter-spacing: 0.016rem; /* 0.25px */
+    line-height: calc(150%); /* 150% de 34px */
+    font-weight: 500;
+}
+
+.f-h6{
+    font-size: 1.75rem; /* 28px */
+    letter-spacing: 0; /* 0 */
+    line-height: calc(150%); /* 150% de 24px */
+    font-weight: 500;
+   
+}
+
+.f-t{
+    font-size: 1.5rem; /* 24px */
+    letter-spacing: 0; /* 0 */
+    line-height: calc(150%); /* 150% de 24px */
+    font-weight: 500;
+}
+
+.f-st1{
+    font-size: 	1.3125rem; /* 21px */
+    letter-spacing: 0.009rem; /* 0.15px */
+    line-height: calc(150%); /* 150% de 21px */
+    font-weight: 500;
+}
+
+.f-st2{
+    font-size: 1.125rem; /* 18px */
+    letter-spacing: 0.016rem; /* 0.25px */
+    line-height: calc(150%); /* 150% de 18px */
+    font-weight: 500;
+}
+
+.f-b1{
+    font-size: 1rem; /* 16px */
+    letter-spacing: 0.031rem; /* 0.5px */
+    line-height: calc(150%); /* 150% de 16px */
+    font-weight: normal;
+}
+
+.f-b2{
+    font-size: 0.875rem; /* 14px */
+    letter-spacing: 0.016rem; /* 0.25px */
+    line-height: calc(150%); /* 150% de 14px */
+    font-weight: normal;
+}
+
+
+.f-c{
+    font-size: 0.75rem; /* 12px */
+    letter-spacing: 0.025rem; /* 0.4px */
+    line-height: calc(160%); /* 160% de 12px */
+    font-weight: normal;
+}
+
+.f-o{
+    font-size: 0.625rem; /* 10px */
+    letter-spacing: 0.094rem; /* 1.5px */
+    line-height: calc(160%); /* 160% de 10px */
+    font-weight: normal;
+}
+
+/*------------- Font Weight -------------*/
+
+.fw-1{font-weight: 100; /*Thin*/}
+.fw-2{font-weight: 200; /*Extra Light*/}
+.fw-3{font-weight: 300; /*Light*/}
+.fw-4{font-weight: 400; /*Normal*/}
+.fw-5{font-weight: 500; /*Medium*/}
+.fw-6{font-weight: 600; /*Semi Bold*/}
+.fw-7{font-weight: 700; /*Bold*/}
+.fw-8{font-weight: 800; /*Extra Bold*/}
+.fw-9{font-weight: 900; /*Ultra Bold*/}
+
+/*------------- Text Alignment -------------*/
+
+.text-left      {text-align: left;}
+.text-center	{text-align: center;}
+.text-right     {text-align: right;}
+.text-justify	{text-align: justify;}
+
+/*------------- Text Transform -------------*/
+
+.uppercase	    {text-transform: uppercase;}
+.lowercase	    {text-transform: lowercase;}
+.capitalize	    {text-transform: capitalize;}
+.normal-case	{text-transform: none;}
+
+/*------------- Text Color -------------*/
+
+.c-blanco{color: var(--cBlanco)}
+.c-negro{color: var(--cNegro)}
+.c-g1{color: var(--cGrey1)}
+.c-g2{color: var(--cGrey2)}
+.c-g3{color: var(--cGrey3)}
+.c-g4{color: var(--cGrey4)}
+.c-g5{color: var(--cGrey5)}
+.c-g6{color: var(--cGrey6)}
+.c-g7{color: var(--cGrey7)}
+.c-g8{color: var(--cGrey8)}
+.c-g9{color: var(--cGrey9)}
+.c-g10{color: var(--cGrey10)}
+
+
+.c-color1{color: var(--cBrand1)}
+.c-color2{color: var(--cBrand2)}
+.c-color3{color: var(--cBrand3)}
+.c-color4{color: var(--cBrand4)}
+
+

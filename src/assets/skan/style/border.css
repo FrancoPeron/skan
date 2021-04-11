@@ -1,0 +1,18 @@
+/*==================== BORDER ==================== */
+
+/*------------- Border Radius -------------*/
+
+.br-0{border-radius: 0}
+.br-2{border-radius: .125rem}
+.br-4{border-radius: .25rem}
+.br-8{border-radius: .5rem}
+.br-12{border-radius: .75rem}
+.br-16{border-radius: 1rem}
+.br-18{border-radius: 1.125rem}
+.br-24{border-radius: 1.5rem}
+.br-28{border-radius: 1.75rem}
+.br-32{border-radius: 2rem}
+.br-40{border-radius: 2.5rem}
+.br-48{border-radius: 3rem}
+.br-56{border-radius: 3.5rem}
+.br-64{border-radius: 4rem}
