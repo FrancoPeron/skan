@@ -19,3 +19,14 @@
 .bg-color2{background-color: var(--cBrand2)}
 .bg-color3{background-color: var(--cBrand3)}
 .bg-color4{background-color: var(--cBrand4)}
+
+.bg-scolor1-50{background-color: var(--cBrand1-50)}
+.bg-scolor1-100{background-color: var(--cBrand1-100)}
+.bg-scolor1-200{background-color: var(--cBrand1-200)}
+.bg-scolor1-300{background-color: var(--cBrand1-300)}
+.bg-scolor1-400{background-color: var(--cBrand1-400)}
+.bg-scolor1-500{background-color: var(--cBrand1-500)}
+.bg-scolor1-600{background-color: var(--cBrand1-600)}
+.bg-scolor1-700{background-color: var(--cBrand1-700)}
+.bg-scolor1-800{background-color: var(--cBrand1-800)}
+.bg-scolor1-900{background-color: var(--cBrand1-900)}

@@ -61,6 +61,17 @@ h1:focus,h2:focus,h3:focus,h4:focus,h5:focus,h6:focus,p:focus,a:focus,div:focus,
     --cGrey9: #292929;
     --cGrey10: #1F1F1F;
 
+    --cBrand1-50: ;
+    --cBrand1-100: ;
+    --cBrand1-200: ;
+    --cBrand1-300: ;
+    --cBrand1-400: ;
+    --cBrand1-500: ;
+    --cBrand1-600: ;
+    --cBrand1-700: ;
+    --cBrand1-800: ;
+    --cBrand1-900: ;
+
     --cError: #FF4949;
     --cSuccess: #13CE66;
     --cWarning: #FFC82C;

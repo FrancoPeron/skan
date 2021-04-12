@@ -1,5 +1,19 @@
 <template>
   <div class="hello">
+
+    <div class="flex-row-wrap">
+      <div class="scale-brand1 bg-scolor1-50 shadow-sm m-16 br-8"></div>
+      <div class="scale-brand1 bg-scolor1-100 shadow-sm m-16 br-8"></div>
+      <div class="scale-brand1 bg-scolor1-200 shadow-sm m-16 br-8"></div>
+      <div class="scale-brand1 bg-scolor1-300 shadow-sm m-16 br-8"></div>
+      <div class="scale-brand1 bg-scolor1-400 shadow-sm m-16 br-8"></div>
+      <div class="scale-brand1 bg-scolor1-500 shadow-sm m-16 br-8"></div>
+      <div class="scale-brand1 bg-scolor1-600 shadow-sm m-16 br-8"></div>
+      <div class="scale-brand1 bg-scolor1-700 shadow-sm m-16 br-8"></div>
+      <div class="scale-brand1 bg-scolor1-800 shadow-sm m-16 br-8"></div>
+      <div class="scale-brand1 bg-scolor1-900 shadow-sm m-16 br-8"></div>
+    </div>
+
     <div class="">
       <p class="f-big">hola</p>
       <p class="f-h1">f-h1</p>
@@ -35,7 +49,7 @@ export default {
   name: 'Componentes',
   data () {
     return {
-      users: users
+     
     }
   }
 }
@@ -43,5 +57,10 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style >
+
+.scale-brand1{
+  height: 100px;
+  width: 100px;
+}
 
 </style>
