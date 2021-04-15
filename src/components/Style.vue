@@ -1,17 +1,17 @@
 <template>
   <div class="hello">
 
-    <div class="flex-row-wrap">
-      <div class="scale-brand1 bg-scolor1-50 shadow-sm m-16 br-8"></div>
-      <div class="scale-brand1 bg-scolor1-100 shadow-sm m-16 br-8"></div>
-      <div class="scale-brand1 bg-scolor1-200 shadow-sm m-16 br-8"></div>
-      <div class="scale-brand1 bg-scolor1-300 shadow-sm m-16 br-8"></div>
-      <div class="scale-brand1 bg-scolor1-400 shadow-sm m-16 br-8"></div>
-      <div class="scale-brand1 bg-scolor1-500 shadow-sm m-16 br-8"></div>
-      <div class="scale-brand1 bg-scolor1-600 shadow-sm m-16 br-8"></div>
-      <div class="scale-brand1 bg-scolor1-700 shadow-sm m-16 br-8"></div>
-      <div class="scale-brand1 bg-scolor1-800 shadow-sm m-16 br-8"></div>
-      <div class="scale-brand1 bg-scolor1-900 shadow-sm m-16 br-8"></div>
+    <div class="flex-row-wrap items-m-16 items-w-10">
+      <div class="altura bg-scolor1-50 shadow-sm br-8"></div>
+      <div class="altura bg-scolor1-100 shadow-sm br-8"></div>
+      <div class="altura bg-scolor1-200 shadow-sm br-8"></div>
+      <div class="altura bg-scolor1-300 shadow-sm br-8"></div>
+      <div class="altura bg-scolor1-400 shadow-sm br-8"></div>
+      <div class="altura bg-scolor1-500 shadow-sm br-8"></div>
+      <div class="altura bg-scolor1-600 shadow-sm br-8"></div>
+      <div class="altura bg-scolor1-700 shadow-sm br-8"></div>
+      <div class="altura bg-scolor1-800 shadow-sm br-8"></div>
+      <div class="altura bg-scolor1-900 shadow-sm br-8"></div>
     </div>
 
     <div class="">
@@ -58,9 +58,8 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style >
 
-.scale-brand1{
+.altura{
   height: 100px;
-  width: 100px;
 }
 
 </style>

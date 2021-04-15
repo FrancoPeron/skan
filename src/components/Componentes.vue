@@ -2,7 +2,7 @@
   <div class="flex-column-nowrap px-24">
 
     <h2 class="f-t mx-12">Botones</h2>
-    <div class="Botones flex-row-wrap py-16 gap-m-12">
+    <div class="Botones flex-row-wrap py-16 items-m-12">
 
       <button class="btn-sm-1 br-8">BOTON</button>
       <button class="btn-1 br-8">BOTON</button>

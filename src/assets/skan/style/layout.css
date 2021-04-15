@@ -21,6 +21,12 @@
 .container-xxl  {max-width: 1536px;}
 .container-custom  {max-width: var(--container-custom)}
 
+
+/*------------- Box Sizing -------------*/
+
+.box-border	    {box-sizing: border-box;}
+.box-content	{box-sizing: content-box;}
+
 /*------------- Display -------------*/
 
 .block              {display: block;}
@@ -71,6 +77,18 @@
 .overflow-y-visible	{overflow-y: visible;}
 .overflow-x-scroll	{overflow-x: scroll;}
 .overflow-y-scroll	{overflow-y: scroll;}
+
+/*------------- Overscroll Behavior -------------*/
+
+.overscroll-auto	    {overscroll-behavior: auto;}
+.overscroll-contain	    {overscroll-behavior: contain;}
+.overscroll-none	    {overscroll-behavior: none;}
+.overscroll-y-auto	    {overscroll-behavior-y: auto;}
+.overscroll-y-contain	{overscroll-behavior-y: contain;}
+.overscroll-y-none	    {overscroll-behavior-y: none;}
+.overscroll-x-auto	    {overscroll-behavior-x: auto;}
+.overscroll-x-contain	{overscroll-behavior-x: contain;}
+.overscroll-x-none	    {overscroll-behavior-x: none;}
 
 /*------------- Position -------------*/
 
